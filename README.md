@@ -12,6 +12,13 @@
   <img src="https://img.shields.io/github/stars/SaeedX302?style=for-the-badge&color=yellow" alt="GitHub Stars">
 </p>
 
+
+<div align="center">
+  
+![](https://count.getloli.com/@Saeedx302?name=Saeedx302&theme=asoul&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
+  
+</div>
+
 <div align="center">
   <h3>✨ Quote of the Moment ✨</h3>
   <p>
