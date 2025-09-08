@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"چلنے کا حوصلہ نہیں، رکنا محال کر دیا عشق کے اس سفر نے تو مجھ کو نڈھال کر دیا"</em></p>
-  <p><strong>— پروین شاکر</strong></p>
-  <!-- Last updated on: 2025-09-09 01:54:52 PKT -->
+  <p><em>"کب تک دل کی خیر منائیں کب تک رہ دکھلاؤ گے کب تک چین کی مہلت دو گے کب تک یاد نہ آؤ گے"</em></p>
+  <p><strong>— فیض احمد فیض</strong></p>
+  <!-- Last updated on: 2025-09-09 02:28:03 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
