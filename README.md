@@ -259,9 +259,20 @@
 </div>
 
 <div align="center">
-  <h3>✨ Quote of the Moment ✨</h3>
-  <p>
-    </p>
+<h1>My Awesome GitHub Profile</h1>
+<p>Welcome! Here's a daily dose of poetry.</p>
+</div>
+
+<!--START_QUOTE_SECTION-->
+
+<div align="center">
+<h3>✨ Quote of the Day ✨</h3>
+<p><em>Loading a new quote...</em></p>
+</div>
+<!--END_QUOTE_SECTION-->
+
+<div align="center">
+<p>Thanks for visiting!</p>
 </div>
 
 <div align="center">
@@ -279,3 +290,4 @@
 <div align="center">
   <sub>© 2025-2026 ༯𝙎ค૯𝙀𝘿✘🫀. All rights reserved.</sub>
 </div>
+
