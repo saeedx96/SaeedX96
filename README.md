@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"میں اپنی دوستی کو شہر میں رسوا نہیں کرتی محبت میں بھی کرتی ہوں مگر چرچا نہیں کرتی"</em></p>
-  <p><strong>— پروین شاکر</strong></p>
-  <!-- Last updated on: 2025-09-09 03:43:35 PKT -->
+  <p><em>"شاید مجھے کسی سے محبت نہیں ہوئی لیکن یقیں سبھی کو دلاتا رہا ہوں میں"</em></p>
+  <p><strong>— جون ایلیا</strong></p>
+  <!-- Last updated on: 2025-09-09 03:51:19 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
