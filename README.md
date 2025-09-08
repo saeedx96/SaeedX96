@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"اک قہر ہے کہ رکنے نہ پایا تمام عمر اک صبر ہے کہ سارے جہاں پر محیط ہے"</em></p>
-  <p><strong>— جون ایلیا</strong></p>
-  <!-- Last updated on: 2025-09-09 04:48:56 PKT -->
+  <p><em>"اب تو مجھے اپنا بھی کوئی دھیان نہیں ہے ہر سمت تری یاد کا پھیلاؤ بہت ہے"</em></p>
+  <p><strong>— پروین شاکر</strong></p>
+  <!-- Last updated on: 2025-09-09 04:56:07 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
