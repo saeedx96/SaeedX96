@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"علاج یہ ہے کہ مجبور کر دیا جاؤں وگرنہ یوں تو کسی کی نہیں سنی میں نے"</em></p>
-  <p><strong>— جون ایلیا</strong></p>
-  <!-- Last updated on: 2025-09-09 00:24:49 PKT -->
+  <p><em>"یہاں لباس کی قیمت ہے آدمی کی نہیں مجھے گلاس بڑے دے شراب کم کر دے"</em></p>
+  <p><strong>— بشیر بدر</strong></p>
+  <!-- Last updated on: 2025-09-09 00:37:14 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
