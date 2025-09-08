@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"تم آئے ہو نہ شب انتظار گزری ہے تلاش میں ہے سحر بار بار گزری ہے"</em></p>
-  <p><strong>— فیض احمد فیض</strong></p>
-  <!-- Last updated on: 2025-09-08 23:48:30 PKT -->
+  <p><em>"اب نہیں کوئی بات خطرے کی اب سبھی کو سبھی سے خطرہ ہے"</em></p>
+  <p><strong>— جون ایلیا</strong></p>
+  <!-- Last updated on: 2025-09-08 23:55:46 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
