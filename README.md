@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"ہم کو یاروں نے یاد بھی نہ رکھا جونؔ یاروں کے یار تھے ہم تو"</em></p>
-  <p><strong>— جون ایلیا</strong></p>
-  <!-- Last updated on: 2025-09-09 03:58:35 PKT -->
+  <p><em>"وہ لوگ بہت خوش قسمت تھے جو عشق کو کام سمجھتے تھے"</em></p>
+  <p><strong>— فیض احمد فیض</strong></p>
+  <!-- Last updated on: 2025-09-09 04:28:57 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
