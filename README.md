@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"دل میں اک لہر سی اٹھی ہے ابھی کوئی تازہ ہوا چلی ہے ابھی"</em></p>
-  <p><strong>— ناصر کاظمی</strong></p>
-  <!-- Last updated on: 2025-09-09 02:56:10 PKT -->
+  <p><em>"وہ تو صدیوں کا سفر کر کے یہاں پہنچا تھا تو نے منہ پھیر کے جس شخص کو دیکھا بھی نہیں"</em></p>
+  <p><strong>— پروین شاکر</strong></p>
+  <!-- Last updated on: 2025-09-09 03:33:19 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
