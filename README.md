@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"اب نہیں کوئی بات خطرے کی اب سبھی کو سبھی سے خطرہ ہے"</em></p>
+  <p><em>"علاج یہ ہے کہ مجبور کر دیا جاؤں وگرنہ یوں تو کسی کی نہیں سنی میں نے"</em></p>
   <p><strong>— جون ایلیا</strong></p>
-  <!-- Last updated on: 2025-09-08 23:55:46 PKT -->
+  <!-- Last updated on: 2025-09-09 00:24:49 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
