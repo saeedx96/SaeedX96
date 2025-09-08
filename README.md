@@ -264,10 +264,10 @@
 </div>
 
 <!--START_QUOTE_SECTION-->
-
 <div align="center">
-<h3>✨ Quote of the Day ✨</h3>
-<p><em>Loading a new quote...</em></p>
+  <h3>✨ Quote of the Day ✨</h3>
+  <p><em>"یہاں تک بڑھ گئے آلام ہستی کہ اب تو موت بھی اچھی لگے ہے"</em></p>
+  <p><strong>— جون ایلیا</strong></p>
 </div>
 <!--END_QUOTE_SECTION-->
 
