@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"مر بھی جاؤں تو کہاں لوگ بھلا ہی دیں گے لفظ میرے، مرے ہونے کی گواہی دیں گے"</em></p>
-  <p><strong>— پروین شاکر</strong></p>
-  <!-- Last updated on: 2025-09-08 23:16:09 PKT -->
+  <p><em>"تم آئے ہو نہ شب انتظار گزری ہے تلاش میں ہے سحر بار بار گزری ہے"</em></p>
+  <p><strong>— فیض احمد فیض</strong></p>
+  <!-- Last updated on: 2025-09-08 23:48:30 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
