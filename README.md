@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"کون کہتا ہے کہ موت آئی تو مر جاؤں گا میں تو دریا ہوں سمندر میں اتر جاؤں گا"</em></p>
-  <p><strong>— احمد ندیم قاسمی</strong></p>
-  <!-- Last updated on: 2025-09-09 01:47:03 PKT -->
+  <p><em>"چلنے کا حوصلہ نہیں، رکنا محال کر دیا عشق کے اس سفر نے تو مجھ کو نڈھال کر دیا"</em></p>
+  <p><strong>— پروین شاکر</strong></p>
+  <!-- Last updated on: 2025-09-09 01:54:52 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
