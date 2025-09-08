@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"وہ لوگ بہت خوش قسمت تھے جو عشق کو کام سمجھتے تھے"</em></p>
-  <p><strong>— فیض احمد فیض</strong></p>
-  <!-- Last updated on: 2025-09-09 04:28:57 PKT -->
+  <p><em>"کبھی عرش پر کبھی فرش پر کبھی ان کے در کبھی در بدر غم عاشقی ترا شکریہ میں کہاں کہاں سے گزر گیا"</em></p>
+  <p><strong>— 𝙎คAEED✘🫀</strong></p>
+  <!-- Last updated on: 2025-09-09 04:41:28 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
