@@ -2,24 +2,24 @@
 
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,ff0000,990000&height=200&section=header&text=Saeed%20Xdie&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,ff0000,990000&height=200&section=header&text=༯𝙎ค૯𝙀𝘿✘🫀&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=80&lines=Hi+there%2C+I'm+Saeed+%F0%9F%91%8B;Mobile+%26+Full-Stack;Developer+%F0%9F%9A%80;Flutter+%7C+Swift+%7C;React+%7C+Node.js+%F0%9F%8E%AF" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=80&lines=Hi+there%2C+I'm+༯𝙎ค૯𝙀𝘿✘🫀+%F0%9F%91%8B;Mobile+%26+Full-Stack;Developer+%F0%9F%9A%80;Flutter+%7C+Swift+%7C;React+%7C+Node.js+%F0%9F%8E%AF" alt="Typing SVG"/>
 
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaeedX302&style=for-the-badge&color=red" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/SaeedX302?style=for-the-badge&color=red" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/SaeedX302?style=for-the-badge&color=yellow" alt="GitHub Stars">
+  <img src="https://komarev.com/ghpvc/?username=SaeedX96&style=for-the-badge&color=red" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/SaeedX96?style=for-the-badge&color=red" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/SaeedX96?style=for-the-badge&color=yellow" alt="GitHub Stars">
 </p>
 
 
 <div align="center">
   
-![](https://count.getloli.com/@Saeedx302?name=Saeedx302&theme=asoul&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
+![](https://count.getloli.com/@Saeedx96?name=Saeedx96&theme=asoul&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
   
 </div>
 
@@ -117,12 +117,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaeedX302&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaeedX96&show_icons=true&theme=radical&hide_border=true" />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaeedX302&theme=tokyonight&hide_border=true&background=0D1117&stroke=6A5ACD&ring=6A5ACD&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6A5ACD&sideLabels=ffffff&dates=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaeedX96&theme=tokyonight&hide_border=true&background=0D1117&stroke=6A5ACD&ring=6A5ACD&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6A5ACD&sideLabels=ffffff&dates=ffffff" />
 </div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedX302&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedX96&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&text_color=ffffff" />
 
 ---
 
@@ -204,10 +204,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaeedX302&bg_color=0D1117&color=6A5ACD&line=6A5ACD&point=FF6B6B&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaeedX96&bg_color=0D1117&color=6A5ACD&line=6A5ACD&point=FF6B6B&area=true&hide_border=true" width="100%" />
 </div>
 
-![GitHub Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saeedx302&theme=default&utcOffset=5)
+![GitHub Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saeedx96&theme=default&utcOffset=5)
 
 ---
 
@@ -278,5 +278,5 @@
 </div>
 
 <div align="center">
-  <sub>© 2025-2026 Saeed X302. All rights reserved.</sub>
+  <sub>© 2025-2026 ༯𝙎ค૯𝙀𝘿✘🫀. All rights reserved.</sub>
 </div>
