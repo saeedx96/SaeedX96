@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"ستاروں سے آگے جہاں اور بھی ہیں ابھی عشق کے امتحاں اور بھی ہیں"</em></p>
-  <p><strong>— علامہ اقبال</strong></p>
-  <!-- Last updated on: 2025-09-09 00:44:25 PKT -->
+  <p><em>"خود کو چنتے ہوئے دن گزرا اور آخر میں اپنے ملبے سے فقط اپنا پتہ ہی پایا"</em></p>
+  <p><strong>— جون ایلیا</strong></p>
+  <!-- Last updated on: 2025-09-09 00:52:09 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
