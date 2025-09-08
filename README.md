@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"چلنے کا حوصلہ نہیں، رکنا محال کر دیا عشق کے اس سفر نے تو مجھ کو نڈھال کر دیا"</em></p>
-  <p><strong>— پروین شاکر</strong></p>
-  <!-- Last updated on: 2025-09-09 02:48:40 PKT -->
+  <p><em>"دل میں اک لہر سی اٹھی ہے ابھی کوئی تازہ ہوا چلی ہے ابھی"</em></p>
+  <p><strong>— ناصر کاظمی</strong></p>
+  <!-- Last updated on: 2025-09-09 02:56:10 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
