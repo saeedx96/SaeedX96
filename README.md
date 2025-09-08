@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"کب تک دل کی خیر منائیں کب تک رہ دکھلاؤ گے کب تک چین کی مہلت دو گے کب تک یاد نہ آؤ گے"</em></p>
-  <p><strong>— فیض احمد فیض</strong></p>
-  <!-- Last updated on: 2025-09-09 02:28:03 PKT -->
+  <p><em>"بازیچۂ اطفال ہے دنیا مرے آگے ہوتا ہے شب و روز تماشا مرے آگے"</em></p>
+  <p><strong>— مرزا غالب</strong></p>
+  <!-- Last updated on: 2025-09-09 02:41:11 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
