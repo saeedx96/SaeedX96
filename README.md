@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"کون چاہے گا تمہیں میری طرح اب کوئی شرط بھی نہیں ہاری"</em></p>
-  <p><strong>— پروین شاکر</strong></p>
-  <!-- Last updated on: 2025-09-09 00:59:40 PKT -->
+  <p><em>"میں جو ہوں جون ایلیا ہوں جناب اس کا بے حد لحاظ کیجیے گا"</em></p>
+  <p><strong>— جون ایلیا</strong></p>
+  <!-- Last updated on: 2025-09-09 01:35:40 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
