@@ -2,8 +2,8 @@ name: Update Daily Quote 📜
 
 on:
   schedule:
-    # Har 24 ghante mein (roz raat 12 baje UTC) run hoga
-    - cron: '0 0 * * *'
+    # Har minute run hoga testing ke liye
+    - cron: '* * * * *'
   # Isko manually bhi run karne ka option add kar rahe hain
   workflow_dispatch:
 
