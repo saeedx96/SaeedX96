@@ -2,12 +2,16 @@ name: Update Daily Quote 📜
 
 on:
   schedule:
-    # Har minute run hoga testing ke liye
-    - cron: '* * * * *'
+    # Roz raat 12 baje UTC (subah 5 baje PKT) run hoga
+    - cron: '0 0 * * *'
+  # Isko manually bhi run karne ka option
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  update_readme:
+  update_readme_with_quote:
     name: Update README with a new quote
     runs-on: ubuntu-latest
     steps:
@@ -27,37 +31,45 @@ jobs:
           import requests
           import re
 
-          # API se quote fetch karein
-          response = requests.get("https://tsunquotes.tsunstudio.pw/api/quotes")
-          data = response.json()
-          quote = data.get("quote")
-          author = data.get("author")
-          
-          # Naya quote format karein
-          new_quote_text = f'"{quote}"<br><br>— *{author}*'
+          try:
+            # API se quote fetch karein
+            response = requests.get("https://tsunquotes.tsunstudio.pw/api/quotes")
+            response.raise_for_status() # Agar koi error ho to ruk jaye
+            data = response.json()
+            quote = data.get("quote", "Could not fetch a quote today.")
+            author = data.get("author", "Unknown")
+            
+            # Naya quote HTML format mein tayyar karein
+            new_quote_html = f'''<div align="center">
+  <h3>✨ Quote of the Day ✨</h3>
+  <p><em>"{quote}"</em></p>
+  <p><strong>— {author}</strong></p>
+</div>'''
 
-          # README file read karein
-          with open("README.md", "r", encoding="utf-8") as file:
-              content = file.read()
+            # README file read karein
+            with open("README.md", "r", encoding="utf-8") as file:
+                content = file.read()
 
-          # Comments ke beech ka content replace karein
-          start_marker = ""
-          end_marker = ""
-          
-          # Regular expression ka use karke replace karein
-          updated_content = re.sub(f"({re.escape(start_marker)})(.*?)({re.escape(end_marker)})", f"\\1\n{new_quote_text}\n\\3", content, flags=re.DOTALL)
+            # Markers ke beech ka content replace karein
+            start_marker = "<!--START_QUOTE_SECTION-->"
+            end_marker = "<!--END_QUOTE_SECTION-->"
+            
+            updated_content = re.sub(f"({re.escape(start_marker)})(.*?)({re.escape(end_marker)})", f"\\1\n{new_quote_html}\n\\3", content, flags=re.DOTALL)
 
-          # README file mein wapis write karein
-          with open("README.md", "w", encoding="utf-8") as file:
-              file.write(updated_content)
+            # README file mein wapis write karein
+            with open("README.md", "w", encoding="utf-8") as file:
+                file.write(updated_content)
+            
+            print("README updated successfully!")
+
+          except requests.exceptions.RequestException as e:
+            print(f"Error fetching quote: {e}")
+
         shell: python
 
       - name: Commit and Push Changes 🚀
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "✨ Update daily quote"
-          branch: main
+          commit_message: "📝 Chore: Updated daily quote"
+          branch: main # Agar apki main branch 'master' hai to isko 'master' kar dein
           file_pattern: README.md
-          commit_user_name: GitHub Actions Bot
-          commit_user_email: actions@github.com
-          commit_author: GitHub Actions Bot <actions@github.com>
