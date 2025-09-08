@@ -262,7 +262,9 @@
 
 <div align="center">
   <h3>✨ Quote of the Moment ✨</h3>
-  <p> new_quote
+  <p> "کچھ تو مجبوریاں رہی ہوں گی یوں کوئی بے وفا نہیں ہوتا"
+
+— *بشیر بدر*
     </p>
 </div>
 
