@@ -4,7 +4,6 @@ on:
   schedule:
     # Har minute run hoga testing ke liye
     - cron: '* * * * *'
-  # Isko manually bhi run karne ka option add kar rahe hain
   workflow_dispatch:
 
 jobs:
@@ -26,22 +25,27 @@ jobs:
       - name: Fetch Quote & Update README ✍️
         run: |
           import requests
-          import os
+          import re
 
           # API se quote fetch karein
           response = requests.get("https://tsunquotes.tsunstudio.pw/api/quotes")
           data = response.json()
           quote = data.get("quote")
           author = data.get("author")
-
-          new_quote_text = f'"{quote}"\n\n— *{author}*'
+          
+          # Naya quote format karein
+          new_quote_text = f'"{quote}"<br><br>— *{author}*'
 
           # README file read karein
           with open("README.md", "r", encoding="utf-8") as file:
               content = file.read()
 
-          # Placeholder ko naye quote se replace karein
-          updated_content = content.replace("new_quote", new_quote_text)
+          # Comments ke beech ka content replace karein
+          start_marker = ""
+          end_marker = ""
+          
+          # Regular expression ka use karke replace karein
+          updated_content = re.sub(f"({re.escape(start_marker)})(.*?)({re.escape(end_marker)})", f"\\1\n{new_quote_text}\n\\3", content, flags=re.DOTALL)
 
           # README file mein wapis write karein
           with open("README.md", "w", encoding="utf-8") as file:
