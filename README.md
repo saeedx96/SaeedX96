@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"بازیچۂ اطفال ہے دنیا مرے آگے ہوتا ہے شب و روز تماشا مرے آگے"</em></p>
-  <p><strong>— مرزا غالب</strong></p>
-  <!-- Last updated on: 2025-09-09 02:41:11 PKT -->
+  <p><em>"چلنے کا حوصلہ نہیں، رکنا محال کر دیا عشق کے اس سفر نے تو مجھ کو نڈھال کر دیا"</em></p>
+  <p><strong>— پروین شاکر</strong></p>
+  <!-- Last updated on: 2025-09-09 02:48:40 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
