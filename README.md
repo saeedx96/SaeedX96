@@ -6,7 +6,8 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=80&lines=Hi+there%2C+I'm+༯𝙎ค૯𝙀𝘿✘🫀+%F0%9F%91%8B;Mobile+%26+Full-Stack;Developer+%F0%9F%9A%80;Flutter+%7C+Swift+%7C;React+%7C+Node.js+%F0%9F%8E%AF" alt="Typing SVG"/>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=80&lines=Hi+there%2C+I%27m+%E0%BC%AF%F0%9D%99%8E%E0%B8%84%E0%AB%AF%F0%9D%99%80%F0%9D%98%BF%E2%9C%98%F0%9F%AB%80;Mobile+%26+Full-Stack;Developer+%F0%9F%9A%80;Flutter+%7C+Swift+%7C;React+%7C+Node.js+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 </div>
 
