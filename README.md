@@ -266,8 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"یہاں تک بڑھ گئے آلام ہستی کہ اب تو موت بھی اچھی لگے ہے"</em></p>
-  <p><strong>— جون ایلیا</strong></p>
+  <p><em>"مر بھی جاؤں تو کہاں لوگ بھلا ہی دیں گے لفظ میرے، مرے ہونے کی گواہی دیں گے"</em></p>
+  <p><strong>— پروین شاکر</strong></p>
+  <!-- Last updated on: 2025-09-08 23:16:09 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
