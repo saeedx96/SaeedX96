@@ -1,0 +1,59 @@
+name: Update Daily Quote 📜
+
+on:
+  schedule:
+    # Har 24 ghante mein (roz raat 12 baje UTC) run hoga
+    - cron: '0 0 * * *'
+  # Isko manually bhi run karne ka option add kar rahe hain
+  workflow_dispatch:
+
+jobs:
+  update_readme:
+    name: Update README with a new quote
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository 🛎️
+        uses: actions/checkout@v4
+
+      - name: Setup Python 🐍
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies 📦
+        run: pip install requests
+
+      - name: Fetch Quote & Update README ✍️
+        run: |
+          import requests
+          import os
+
+          # API se quote fetch karein
+          response = requests.get("https://tsunquotes.tsunstudio.pw/api/quotes")
+          data = response.json()
+          quote = data.get("quote")
+          author = data.get("author")
+
+          new_quote_text = f'"{quote}"\n\n— *{author}*'
+
+          # README file read karein
+          with open("README.md", "r", encoding="utf-8") as file:
+              content = file.read()
+
+          # Placeholder ko naye quote se replace karein
+          updated_content = content.replace("new_quote", new_quote_text)
+
+          # README file mein wapis write karein
+          with open("README.md", "w", encoding="utf-8") as file:
+              file.write(updated_content)
+        shell: python
+
+      - name: Commit and Push Changes 🚀
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "✨ Update daily quote"
+          branch: main # Agar apki main branch 'master' hai to isko 'master' kar dein
+          file_pattern: README.md
+          commit_user_name: GitHub Actions Bot
+          commit_user_email: actions@github.com
+          commit_author: GitHub Actions Bot <actions@github.com>
