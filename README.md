@@ -211,7 +211,7 @@
 
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35" alt="Connect">
+    <img src="https://media. giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35" alt="Connect">
     Let's Connect & Collaborate
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35" alt="Connect">
   </h2>
@@ -256,6 +256,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=F97316&center=true&vCenter=true&width=600&height=60&lines=Thanks+For+Visiting!+%F0%9F%91%8B;Happy+Coding!+%F0%9F%9A%80;Let's+Build+Something+Amazing!+%E2%9C%A8"
+</div>
 
 <div align="center">
   <h3>✨ Quote of the Moment ✨</h3>
