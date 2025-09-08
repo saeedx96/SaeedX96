@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"وہ تو صدیوں کا سفر کر کے یہاں پہنچا تھا تو نے منہ پھیر کے جس شخص کو دیکھا بھی نہیں"</em></p>
+  <p><em>"میں اپنی دوستی کو شہر میں رسوا نہیں کرتی محبت میں بھی کرتی ہوں مگر چرچا نہیں کرتی"</em></p>
   <p><strong>— پروین شاکر</strong></p>
-  <!-- Last updated on: 2025-09-09 03:33:19 PKT -->
+  <!-- Last updated on: 2025-09-09 03:43:35 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
