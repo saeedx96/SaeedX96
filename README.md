@@ -1,14 +1,18 @@
+
+
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Saeed%20X302&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,ff0000,990000&height=200&section=header&text=Saeed%20Xdie&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=80&lines=Hi+there%2C+I'm+Saeed+%F0%9F%91%8B;Mobile+%26+Full-Stack+Developer+%F0%9F%9A%80;Flutter+%7C+Swift+%7C+React+%7C+Node.js+%F0%9F%8E%AF" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=80&lines=Hi+there%2C+I'm+Saeed+%F0%9F%91%8B;Mobile+%26+Full-Stack;Developer+%F0%9F%9A%80;Flutter+%7C+Swift+%7C;React+%7C+Node.js+%F0%9F%8E%AF" alt="Typing SVG"/>
+
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaeedX302&style=for-the-badge&color=blueviolet" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/SaeedX302?style=for-the-badge&color=blue" alt="GitHub Followers">
+  <img src="https://komarev.com/ghpvc/?username=SaeedX302&style=for-the-badge&color=red" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/SaeedX302?style=for-the-badge&color=red" alt="GitHub Followers"/>
   <img src="https://img.shields.io/github/stars/SaeedX302?style=for-the-badge&color=yellow" alt="GitHub Stars">
 </p>
 
@@ -19,11 +23,7 @@
   
 </div>
 
-<div align="center">
-  <h3>✨ Quote of the Moment ✨</h3>
-  <p>
-    </p>
-</div>
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" alt="Coding Animation"/>
@@ -110,20 +110,19 @@
 
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Git Stats"/>
+    <img src="https://raw.githubusercontent.com/SaeedX302/file-storage-2/refs/heads/main/pictures/gif/giphy.gif" width="35" alt="Git Stats"/>
     GitHub Analytics
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Git Stats"/>
+    <img src="https://raw.githubusercontent.com/SaeedX302/file-storage-2/refs/heads/main/pictures/gif/output-onlinegiftools.gif" width="35" alt="Git Stats"/>
   </h2>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaeedX302&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=ffffff&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedX302&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&text_color=ffffff" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=SaeedX302&show_icons=true&theme=radical&hide_border=true" />
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaeedX302&theme=tokyonight&hide_border=true&background=0D1117&stroke=6A5ACD&ring=6A5ACD&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6A5ACD&sideLabels=ffffff&dates=ffffff" />
 </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedX302&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&text_color=ffffff" />
 
 ---
 
@@ -145,7 +144,7 @@
     </tr>
     <tr>
       <td><b>📲 Tsuntg Downloader</b></td>
-      <td>Download Telegram stickers with ease</td>
+      <td>For Downloading Telegram stickers</td>
       <td>Flutter, Firebase</td>
       <td>
         <a href="https://github.com/SaeedX302/Tsuntg-Downloader">
@@ -208,6 +207,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaeedX302&bg_color=0D1117&color=6A5ACD&line=6A5ACD&point=FF6B6B&area=true&hide_border=true" width="100%" />
 </div>
 
+![GitHub Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saeedx302&theme=default&utcOffset=5)
+
 ---
 
 <div align="center">
@@ -256,10 +257,12 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=F97316&center=true&vCenter=true&width=600&height=60&lines=Thanks+For+Visiting!+%F0%9F%91%8B;Happy+Coding!+%F0%9F%9A%80;Let's+Build+Something+Amazing!+%E2%9C%A8"/>
-  <br><br>
-  <p><b>جون ایلیا:</b></p>
-  <p><i>"تمہیں دیکھنے کی تمنا ہے، مگر فرصت کہاں ملتی ہے"</i></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=F97316&center=true&vCenter=true&width=600&height=60&lines=Thanks+For+Visiting!+%F0%9F%91%8B;Happy+Coding!+%F0%9F%9A%80;Let's+Build+Something+Amazing!+%E2%9C%A8"
+
+<div align="center">
+  <h3>✨ Quote of the Moment ✨</h3>
+  <p> new_quote
+    </p>
 </div>
 
 <div align="center">
