@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"شاید مجھے کسی سے محبت نہیں ہوئی لیکن یقیں سبھی کو دلاتا رہا ہوں میں"</em></p>
+  <p><em>"ہم کو یاروں نے یاد بھی نہ رکھا جونؔ یاروں کے یار تھے ہم تو"</em></p>
   <p><strong>— جون ایلیا</strong></p>
-  <!-- Last updated on: 2025-09-09 03:51:19 PKT -->
+  <!-- Last updated on: 2025-09-09 03:58:35 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
