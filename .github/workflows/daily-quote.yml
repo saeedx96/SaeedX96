@@ -34,18 +34,20 @@ jobs:
           try:
             # API se quote fetch karein
             response = requests.get("https://tsunquotes.tsunstudio.pw/api/quotes")
-            response.raise_for_status() # Agar koi error ho to ruk jaye
+            response.raise_for_status()
             data = response.json()
             quote = data.get("quote", "Could not fetch a quote today.")
             author = data.get("author", "Unknown")
             
-            # Naya quote HTML format mein tayyar karein
-            # YAHAN INDENTATION THEEK KI GAYI HAI (INDENTATION IS FIXED HERE) 👇
-            new_quote_html = f"""<div align="center">
-  <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"{quote}"</em></p>
-  <p><strong>— {author}</strong></p>
-</div>"""
+            # --- YEH SECTION BADAL DIYA GAYA HAI (THIS SECTION HAS BEEN CHANGED) ---
+            # HTML string ko line-by-line banayein taake YAML error na aye
+            html_line_1 = '<div align="center">'
+            html_line_2 = '  <h3>✨ Quote of the Day ✨</h3>'
+            html_line_3 = f'  <p><em>"{quote}"</em></p>'
+            html_line_4 = f'  <p><strong>— {author}</strong></p>'
+            html_line_5 = '</div>'
+            new_quote_html = "\n".join([html_line_1, html_line_2, html_line_3, html_line_4, html_line_5])
+            # --- CHANGE ENDS HERE ---
 
             # README file read karein
             with open("README.md", "r", encoding="utf-8") as file:
@@ -72,6 +74,5 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "📝 Chore: Updated daily quote"
-          branch: main # Agar apki main branch 'master' hai to isko 'master' kar dein
+          branch: main
           file_pattern: README.md
-
