@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"میں جو ہوں جون ایلیا ہوں جناب اس کا بے حد لحاظ کیجیے گا"</em></p>
-  <p><strong>— جون ایلیا</strong></p>
-  <!-- Last updated on: 2025-09-09 01:35:40 PKT -->
+  <p><em>"کون کہتا ہے کہ موت آئی تو مر جاؤں گا میں تو دریا ہوں سمندر میں اتر جاؤں گا"</em></p>
+  <p><strong>— احمد ندیم قاسمی</strong></p>
+  <!-- Last updated on: 2025-09-09 01:47:03 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
