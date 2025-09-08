@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"یہاں لباس کی قیمت ہے آدمی کی نہیں مجھے گلاس بڑے دے شراب کم کر دے"</em></p>
-  <p><strong>— بشیر بدر</strong></p>
-  <!-- Last updated on: 2025-09-09 00:37:14 PKT -->
+  <p><em>"ستاروں سے آگے جہاں اور بھی ہیں ابھی عشق کے امتحاں اور بھی ہیں"</em></p>
+  <p><strong>— علامہ اقبال</strong></p>
+  <!-- Last updated on: 2025-09-09 00:44:25 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
