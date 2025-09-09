@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"اب تو مجھے اپنا بھی کوئی دھیان نہیں ہے ہر سمت تری یاد کا پھیلاؤ بہت ہے"</em></p>
-  <p><strong>— پروین شاکر</strong></p>
-  <!-- Last updated on: 2025-09-09 04:56:07 PKT -->
+  <p><em>"رنجش ہی سہی دل ہی دکھانے کے لیے آ آ پھر سے مجھے چھوڑ کے جانے کے لیے آ"</em></p>
+  <p><strong>— احمد فراز</strong></p>
+  <!-- Last updated on: 2025-09-09 08:11:56 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
