@@ -17,7 +17,7 @@
 
 <div align="center">
   
-![](https://count.getloli.com/@Saeedx96?name=Saeedx96&theme=asoul&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
+![](https://count.getloli.com/@Saeedxalive?name=Saeedx96&theme=asoul&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
   
 </div>
 
@@ -115,12 +115,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaeedX96&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saeedxalive&show_icons=true&theme=radical&hide_border=true" />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaeedX96&theme=tokyonight&hide_border=true&background=0D1117&stroke=6A5ACD&ring=6A5ACD&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6A5ACD&sideLabels=ffffff&dates=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saeedxalive&theme=tokyonight&hide_border=true&background=0D1117&stroke=6A5ACD&ring=6A5ACD&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6A5ACD&sideLabels=ffffff&dates=ffffff" />
 </div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaeedX96&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saeedxalive&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&text_color=ffffff" />
 
 ---
 
@@ -202,10 +202,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaeedX96&bg_color=0D1117&color=6A5ACD&line=6A5ACD&point=FF6B6B&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saeedxalive&bg_color=0D1117&color=6A5ACD&line=6A5ACD&point=FF6B6B&area=true&hide_border=true" width="100%" />
 </div>
 
-![GitHub Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saeedx96&theme=default&utcOffset=5)
+![GitHub Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saeedxalive&theme=default&utcOffset=5)
 
 ---
 
@@ -289,6 +289,6 @@
 </div>
 
 <div align="center">
-  <sub>© 2025-2026 ༯𝙎ค૯𝙀𝘿✘🫀. All rights reserved.</sub>
+  <sub>© 2021-2025 ༯𝙎ค૯𝙀𝘿✘🫀. All rights reserved.</sub>
 </div>
 
