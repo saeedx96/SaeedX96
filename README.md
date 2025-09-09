@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"ہم بھی کیا سادہ تھے ہم نے بھی سمجھ رکھا تھا غم دوراں سے جدا ہے غم جاناں جاناں"</em></p>
-  <p><strong>— احمد فراز</strong></p>
-  <!-- Last updated on: 2025-09-09 08:51:07 PKT -->
+  <p><em>"ستاروں سے آگے جہاں اور بھی ہیں ابھی عشق کے امتحاں اور بھی ہیں"</em></p>
+  <p><strong>— علامہ اقبال</strong></p>
+  <!-- Last updated on: 2025-09-09 08:58:31 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
