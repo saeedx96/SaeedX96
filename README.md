@@ -260,10 +260,10 @@
 
 <!--START_QUOTE_SECTION-->
 <div align="center">
-  <h1>✨ Quote of the Day ✨</h1>
-  <p><em>"اس نے جلتی ہوئی پیشانی پہ جب ہاتھ رکھا روح تک آ گئی تاثیر مسیحائی کی"</em></p>
-  <p><strong>— پروین شاکر</strong></p>
-  <!-- Last updated on: 2025-09-09 16:57:37 PKT -->
+  <h3>✨ Quote of the Day ✨</h3>
+  <p><em>"اب کے ہم بچھڑے تو شاید کبھی خوابوں میں ملیں جس طرح سوکھے ہوئے پھول کتابوں میں ملیں"</em></p>
+  <p><strong>— احمد فراز</strong></p>
+  <!-- Last updated on: 2025-09-09 18:40:51 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
