@@ -260,7 +260,7 @@
 
 <!--START_QUOTE_SECTION-->
 <div align="center">
-  <h3>✨ Quote of the Day ✨</h3>
+  <h1>✨ Quote of the Day ✨</h1>
   <p><em>"اب کے ہم بچھڑے تو شاید کبھی خوابوں میں ملیں جس طرح سوکھے ہوئے پھول کتابوں میں ملیں"</em></p>
   <p><strong>— احمد فراز</strong></p>
   <!-- Last updated on: 2025-09-09 18:40:51 PKT -->
