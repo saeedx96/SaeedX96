@@ -2,8 +2,8 @@ name: Update Daily Quote 📜
 
 on:
   schedule:
-    # Har minute run hoga testing ke liye
-    - cron: '* * * * *'
+    # Har 12 ghante mein run hoga
+    - cron: '0 */12 * * *'
   workflow_dispatch:
 
 permissions:
@@ -16,6 +16,13 @@ jobs:
     steps:
       - name: Checkout Repository 🛎️
         uses: actions/checkout@v4
+
+      - name: Import GPG key 🔐
+        id: import_gpg
+        uses: crazy-max/ghaction-import-gpg@v6
+        with:
+          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+          passphrase: ${{ secrets.GPG_PASSPHRONSE }}
 
       - name: Setup Python 🐍
         uses: actions/setup-python@v4
@@ -50,7 +57,7 @@ jobs:
             html_line_2 = '  <h3>✨ Quote of the Day ✨</h3>'
             html_line_3 = f'  <p><em>"{quote}"</em></p>'
             html_line_4 = f'  <p><strong>— {author}</strong></p>'
-            html_line_5 = f'  <!-- Last updated on: {timestamp} -->' # Chupa hua timestamp
+            html_line_5 = f'  ' # Chupa hua timestamp
             html_line_6 = '</div>'
             new_quote_html = "\n".join([html_line_1, html_line_2, html_line_3, html_line_4, html_line_5, html_line_6])
             # --- CHANGE ENDS HERE ---
@@ -60,8 +67,8 @@ jobs:
                 content = file.read()
 
             # Markers ke beech ka content replace karein
-            start_marker = "<!--START_QUOTE_SECTION-->"
-            end_marker = "<!--END_QUOTE_SECTION-->"
+            start_marker = ""
+            end_marker = ""
             
             updated_content = re.sub(f"({re.escape(start_marker)})(.*?)({re.escape(end_marker)})", f"\\1\n{new_quote_html}\n\\3", content, flags=re.DOTALL)
 
@@ -82,4 +89,6 @@ jobs:
           commit_message: "📝 Chore: Updated daily quote"
           branch: main
           file_pattern: README.md
-
+          # Committer aur Author set karein taake commit aapse link ho
+          commit_user_name: ${{ steps.import_gpg.outputs.name }}
+          commit_user_email: ${{ steps.import_gpg.outputs.email }}
