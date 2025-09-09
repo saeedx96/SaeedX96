@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"وہ جو نہ آنے والا ہے نا اس سے ہم کو مطلب تھا آنے والوں سے کیا مطلب آتے ہیں آتے ہوں گے"</em></p>
+  <p><em>"علاج یہ ہے کہ مجبور کر دیا جاؤں وگرنہ یوں تو کسی کی نہیں سنی میں نے"</em></p>
   <p><strong>— جون ایلیا</strong></p>
-  <!-- Last updated on: 2025-09-09 09:40:40 PKT -->
+  <!-- Last updated on: 2025-09-09 09:51:01 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
