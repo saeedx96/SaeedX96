@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"ستاروں سے آگے جہاں اور بھی ہیں ابھی عشق کے امتحاں اور بھی ہیں"</em></p>
-  <p><strong>— علامہ اقبال</strong></p>
-  <!-- Last updated on: 2025-09-09 08:58:31 PKT -->
+  <p><em>"وہ جو نہ آنے والا ہے نا اس سے ہم کو مطلب تھا آنے والوں سے کیا مطلب آتے ہیں آتے ہوں گے"</em></p>
+  <p><strong>— جون ایلیا</strong></p>
+  <!-- Last updated on: 2025-09-09 09:40:40 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
