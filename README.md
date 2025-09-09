@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"کون سیکھا ہے صرف باتوں سے سب کو اک حادثہ ضروری ہے"</em></p>
-  <p><strong>— جون ایلیا</strong></p>
-  <!-- Last updated on: 2025-09-09 10:58:31 PKT -->
+  <p><em>"اس نے جلتی ہوئی پیشانی پہ جب ہاتھ رکھا روح تک آ گئی تاثیر مسیحائی کی"</em></p>
+  <p><strong>— پروین شاکر</strong></p>
+  <!-- Last updated on: 2025-09-09 16:57:37 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
