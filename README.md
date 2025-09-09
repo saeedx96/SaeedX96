@@ -9,9 +9,9 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaeedX96&style=for-the-badge&color=red" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/SaeedX96?style=for-the-badge&color=red" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/SaeedX96?style=for-the-badge&color=yellow" alt="GitHub Stars">
+  <img src="https://komarev.com/ghpvc/?username=saeedxalive&style=for-the-badge&color=red" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/saeedxalive?style=for-the-badge&color=red" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/saeedxalive?style=for-the-badge&color=yellow" alt="GitHub Stars">
 </p>
 
 
@@ -291,3 +291,4 @@
 <div align="center">
   <sub>© 2021-2025 ༯𝙎ค૯𝙀𝘿✘🫀. All rights reserved.</sub>
 </div>
+
