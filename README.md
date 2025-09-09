@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"کون اس گھر کی دیکھ بھال کرے روز اک چیز ٹوٹ جاتی ہے"</em></p>
+  <p><em>"یاروں کچھ تو ذکر کرو ان کی قیامت بانہوں کا وہ جو سمٹتے ہوں گے ان میں وہ تو مر جاتے ہوں گے"</em></p>
   <p><strong>— جون ایلیا</strong></p>
-  <!-- Last updated on: 2025-09-09 10:33:47 PKT -->
+  <!-- Last updated on: 2025-09-09 10:43:49 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
