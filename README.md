@@ -211,7 +211,7 @@
 
 <div align="center">
   <h2>
-    <img src="https://media. giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35" alt="Connect">
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35" alt="Connect">
     Let's Connect & Collaborate
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35" alt="Connect">
   </h2>
@@ -258,14 +258,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=F97316&center=true&vCenter=true&width=600&height=60&lines=Thanks+For+Visiting!+%F0%9F%91%8B;Happy+Coding!+%F0%9F%9A%80;Let's+Build+Something+Amazing!+%E2%9C%A8"
 </div>
 
-<div align="center">
-<h1>My Awesome GitHub Profile</h1>
-<p>Welcome! Here's a daily dose of poetry.</p>
-</div>
-
 <!--START_QUOTE_SECTION-->
 <div align="center">
-  <h3>✨ Quote of the Day ✨</h3>
+  <h1>✨ Quote of the Day ✨</h1>
   <p><em>"اس نے جلتی ہوئی پیشانی پہ جب ہاتھ رکھا روح تک آ گئی تاثیر مسیحائی کی"</em></p>
   <p><strong>— پروین شاکر</strong></p>
   <!-- Last updated on: 2025-09-09 16:57:37 PKT -->
