@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"رنجش ہی سہی دل ہی دکھانے کے لیے آ آ پھر سے مجھے چھوڑ کے جانے کے لیے آ"</em></p>
+  <p><em>"ہم بھی کیا سادہ تھے ہم نے بھی سمجھ رکھا تھا غم دوراں سے جدا ہے غم جاناں جاناں"</em></p>
   <p><strong>— احمد فراز</strong></p>
-  <!-- Last updated on: 2025-09-09 08:11:56 PKT -->
+  <!-- Last updated on: 2025-09-09 08:51:07 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
