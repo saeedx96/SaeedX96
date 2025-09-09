@@ -266,9 +266,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"علاج یہ ہے کہ مجبور کر دیا جاؤں وگرنہ یوں تو کسی کی نہیں سنی میں نے"</em></p>
-  <p><strong>— جون ایلیا</strong></p>
-  <!-- Last updated on: 2025-09-09 09:51:01 PKT -->
+  <p><em>"ہم کو معلوم ہے جنت کی حقیقت لیکن دل کے خوش رکھنے کو غالبؔ یہ خیال اچھا ہے"</em></p>
+  <p><strong>— مرزا غالب</strong></p>
+  <!-- Last updated on: 2025-09-09 09:58:18 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
