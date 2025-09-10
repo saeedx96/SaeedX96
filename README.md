@@ -261,9 +261,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"کچھ تو مجبوریاں رہی ہوں گی یوں کوئی بے وفا نہیں ہوتا"</em></p>
-  <p><strong>— بشیر بدر</strong></p>
-  <!-- Last updated on: 2025-09-10 08:03:06 PKT -->
+  <p><em>"میں اس کی دسترس میں ہوں مگر وہ مجھے میری رضا سے مانگتا ہے"</em></p>
+  <p><strong>— پروین شاکر</strong></p>
+  <!-- Last updated on: 2025-09-10 18:18:55 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
