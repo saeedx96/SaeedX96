@@ -261,9 +261,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"میں اس کی دسترس میں ہوں مگر وہ مجھے میری رضا سے مانگتا ہے"</em></p>
-  <p><strong>— پروین شاکر</strong></p>
-  <!-- Last updated on: 2025-09-10 18:18:55 PKT -->
+  <p><em>"کون کہتا ہے کہ ہم جھوٹ نہیں بولتے ایک بار خیر تو پوچھ کر دیکھو"</em></p>
+  <p><strong>— 𝙎คAEED✘🫀</strong></p>
+  <!-- Last updated on: 2025-09-11 08:09:54 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
