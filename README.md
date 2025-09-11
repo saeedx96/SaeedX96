@@ -261,9 +261,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"کون کہتا ہے کہ ہم جھوٹ نہیں بولتے ایک بار خیر تو پوچھ کر دیکھو"</em></p>
-  <p><strong>— 𝙎คAEED✘🫀</strong></p>
-  <!-- Last updated on: 2025-09-11 08:09:54 PKT -->
+  <p><em>"کتنی دلکش ہو تم، کتنا دل جو ہوں میں کیا ستم ہے کہ ہم لوگ مر جائیں گے"</em></p>
+  <p><strong>— جون ایلیا</strong></p>
+  <!-- Last updated on: 2025-09-11 18:16:18 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
