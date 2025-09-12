@@ -261,9 +261,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"خدا کرے کہ مری ارض پاک پر اترے وہ فصل گل جسے اندیشہ زوال نہ ہو"</em></p>
-  <p><strong>— احمد ندیم قاسمی</strong></p>
-  <!-- Last updated on: 2025-09-12 08:03:40 PKT -->
+  <p><em>"یہ کیا کہ سب سے بیاں دل کی حالتیں کرنی فرازؔ تجھ کو نہ آئیں محبتیں کرنی"</em></p>
+  <p><strong>— احمد فراز</strong></p>
+  <!-- Last updated on: 2025-09-12 18:15:27 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
