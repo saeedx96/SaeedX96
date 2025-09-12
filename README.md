@@ -261,9 +261,9 @@
 <!--START_QUOTE_SECTION-->
 <div align="center">
   <h3>✨ Quote of the Day ✨</h3>
-  <p><em>"کتنی دلکش ہو تم، کتنا دل جو ہوں میں کیا ستم ہے کہ ہم لوگ مر جائیں گے"</em></p>
-  <p><strong>— جون ایلیا</strong></p>
-  <!-- Last updated on: 2025-09-11 18:16:18 PKT -->
+  <p><em>"خدا کرے کہ مری ارض پاک پر اترے وہ فصل گل جسے اندیشہ زوال نہ ہو"</em></p>
+  <p><strong>— احمد ندیم قاسمی</strong></p>
+  <!-- Last updated on: 2025-09-12 08:03:40 PKT -->
 </div>
 <!--END_QUOTE_SECTION-->
 
